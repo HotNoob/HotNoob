@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things, master of more than you or i can count.
+Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things, master of i stopped count.
 
 **Specialties**: Servers, SAN / Storage, Networking, Programming, Management, Virtualization & Cloud, Getting shit done. Linux or windows, doesnt matter. 
 
