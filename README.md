@@ -6,7 +6,7 @@ Full Stack / ALL STACK / I r program everything and do everything person. the ja
 
 **Main Programming Languages**: C#, PHP... and apparently now Python as well. MySQL is my preferred database language. Otherwise, can program with any language.
 
-dipping my feet in open-source 
+dipping my toes in open-source water 
 <!--
 **HotNoob/HotNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
