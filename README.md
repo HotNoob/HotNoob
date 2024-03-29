@@ -1,7 +1,12 @@
 ### Hi there 👋
+
 Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things.
-Specialties: Servers, SAN / Storage, Networking, Programming, Management, Virtualization & Cloud, Getting shit done. Linux or windows, doesnt matter. 
-Main Programming Languages: C#, PHP... and apparently now Python as well. MySQL is my preferred database language. Otherwise, can program with any language. 
+
+**Specialties**: Servers, SAN / Storage, Networking, Programming, Management, Virtualization & Cloud, Getting shit done. Linux or windows, doesnt matter. 
+
+**Main Programming Languages**: C#, PHP... and apparently now Python as well. MySQL is my preferred database language. Otherwise, can program with any language.
+
+dipping my feet in open-source 
 <!--
 **HotNoob/HotNoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
