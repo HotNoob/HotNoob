@@ -1,3 +1,6 @@
+### summer 2024
+i'm usually very busy during the summer, so expect updates / commits to be very slow / come to a halt until the winter. 
+
 ### Hi there 👋
 
 Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things, master of i stopped counting.
