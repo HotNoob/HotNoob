@@ -1,6 +1,9 @@
 ### summer 2024
 i'm usually very busy during the summer, so expect updates / commits to be very slow / come to a halt until the winter. 
 
+### winter 2024
+lawl, i'm busy now as well; back log from work has been building up all summer.
+
 ### Hi there 👋
 
 Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things, master of i stopped counting.
