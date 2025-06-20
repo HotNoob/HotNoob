@@ -3,7 +3,7 @@ Welp, it's just become a fact of my life now... i'm just always BUSY these days.
 Wish i had more time to spend coding on some of these projects. 
 
 ### Summer ###
-Especially busy with homesteading, expect slow response times
+Especially busy with building the homestead or whatever, expect slow response times
 
 ### Winter ###
 Still busy... but i should have bouts of time to squeeze in some extra coding ;)
