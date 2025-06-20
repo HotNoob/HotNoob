@@ -1,8 +1,12 @@
-### summer 2024
-i'm usually very busy during the summer, so expect updates / commits to be very slow / come to a halt until the winter. 
+### BUSY AF ###
+Welp, it's just become a fact of my life now... i'm just always BUSY these days. 
+Wish i had more time to spend coding on some of these projects. 
 
-### winter 2024
-lawl, i'm busy now as well; back log from work has been building up all summer.
+### Summer ###
+Especially busy with homesteading, expect slow response times
+
+### Winter ###
+Still busy... but i should have bouts of time to squeeze in some extra coding ;)
 
 ### Hi there 👋
 
