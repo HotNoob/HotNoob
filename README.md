@@ -1,3 +1,9 @@
+## SHIT HIT THE FAN ##
+SHTF IRL... REAL BAD... 
+was just my destiny... out of my control... that's all i can say publicly. 
+
+---
+
 ### BUSY AF ###
 Welp, it's just become a fact of my life now... i'm just always BUSY these days. 
 Wish i had more time to spend coding on some of these projects. 
