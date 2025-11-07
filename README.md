@@ -6,7 +6,7 @@ was just my destiny... out of my control... that's all i can say publicly.
 
 ### Hi there 👋
 
-Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things, master of i stopped counting.
+Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things and trades, master of i stopped counting.
 
 **Specialties**: Servers, SAN / Storage, Networking, Programming, Management, Virtualization & Cloud, Getting shit done. Linux or windows, doesnt matter. 
 
