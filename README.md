@@ -1,6 +1,4 @@
-## SHIT HIT THE FAN ##
-SHTF IRL... REAL BAD... 
-was just my destiny... out of my control... that's all i can say publicly. 
+I am open to Job Offers \w H-1B visa from the USA
 
 ---
 
