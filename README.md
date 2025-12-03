@@ -1,4 +1,4 @@
-I am open to Job Offers \w H-1B visa from the USA
+I am open to Job Offers \w H-1B/EB-2/EB-3 visa from the USA
 
 ---
 
