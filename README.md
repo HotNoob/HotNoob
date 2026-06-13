@@ -1,7 +1,3 @@
-I am open to Job Offers \w H-1B/EB-2/EB-3 visa from the USA
-
----
-
 ### Hi there 👋
 
 Full Stack / ALL STACK / I r program everything and do everything person. the jack of all computer things and trades, master of i stopped counting.
